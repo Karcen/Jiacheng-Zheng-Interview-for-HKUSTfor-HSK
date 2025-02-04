@@ -1,4 +1,4 @@
-Welcome to my GitHub repository! This space serves as a comprehensive collection of my research projects, coding implementations, and academic work. As a researcher in Bioengineering and Chemical Engineering, my work intersects with machine learning, data science, input-output analysis, and global value chain modeling.
+Welcome to my GitHub repository! This space serves as a comprehensive collection of my research projects, coding implementations, and academic work. As a researcher in policy related to Economics and data science, my work intersects with machine learning, data science, input-output analysis, and global value chain modeling.
 
  📌 About Me
 - Current Position: Graduate Student, Shandong University 
