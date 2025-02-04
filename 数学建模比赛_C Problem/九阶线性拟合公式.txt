@@ -1,0 +1,6 @@
+Middle Bound:
+f\left(x\right)=3.228\times{10}^{-15}x^9-1.209\times{10}^{-11}x^8+1.997\times{10}^{-8}x^7-1.90710\times{10}^{-5}x^6+0.0116x^5-4.657x^4+1234x^3-2.079\times{10}^5x^2+2.018\times{10}^7x-8.582\times{10}^8
+Lower Bound:
+f\left(x\right)=1.951\times{10}^{-15}x^9-1.647\times{10}^{-11}x^8+1.337\times{10}^{-8}x^7-2.478\times{10}^{-5}x^6+0.008453x^5-5.794x^4+963.8x^3-2.486\times{10}^5x^2+1.665\times{10}^7x-9.917\times{10}^8
+Upper Bound:
+f\left(x\right)=4.504\times{10}^{-15}x^9-7.713\times{10}^{-12}x^8+2.656\times{10}^{-8}x^7-1.335\times{10}^{-5}x^6+0.01474x^5-3.52x^4+1504x^3-1.672\times{10}^5x^2+2.37\times{10}^7x-7.246\times{10}^8
