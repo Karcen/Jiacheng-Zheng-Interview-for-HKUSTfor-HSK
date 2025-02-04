@@ -1,0 +1,18 @@
+\begin{tikzpicture}[node distance=20pt, auto]
+  \node[draw, rounded corners]                        (start)   {Start};
+  \node[draw, below=of start]                         (step1)   {Build Stakeholder Needs(Key)};
+  \node[draw, below=of step1]                         (step2)   {Preprocess Given Data using Python};
+  \node[draw, below=of step2]                         (step3)   {Question I: Use the minimize function to optimize lake water levels};
+  \node[draw, below=of step3]                         (step4)   {Question II: Use network model to simulate water flow and optimize by SLSQP};
+  \node[draw, below=of step4]                         (step5)   {Question III: Combinatorial Optimization under constraints};
+  \node[draw, below=of step5]                         (step6)   {Question IV: ANOVA};
+  \node[draw, rounded corners, below=of step6]        (end)     {End};
+  
+  \draw[->] (start)  -- (step1);
+  \draw[->] (step1)  -- (step2);
+  \draw[->] (step2)  -- (step3);
+  \draw[->] (step3)  -- (step4);
+  \draw[->] (step4)  -- (step5);
+  \draw[->] (step5)  -- (step6);
+  \draw[->] (step6)  -- node[right] {report the result} (end);
+\end{tikzpicture}
