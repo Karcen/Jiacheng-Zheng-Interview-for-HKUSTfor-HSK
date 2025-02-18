@@ -1,7 +1,7 @@
 Welcome to my GitHub repository! This space serves as a comprehensive collection of my research projects, coding implementations, and academic work. As a researcher in policy related to Economics and data science, my work intersects with machine learning, data science, input-output analysis, and global value chain modeling.
 
  📌 About Me
-- Current Position: Graduate Student, Shandong University 
+- Current Position: Undergraduate Student, Shandong University 
 - Education:  
   - Shandong University (2023–2026, expected) – Bioengineering  GPA: 3.384/4.0(6/50 ≈ 12%)
   - Dalian University of Technology (2019–2021) – Chemical Engineering  GPA: 3.52/4.0(17/230 ≈ 7.4%)
@@ -47,6 +47,7 @@ This repository includes:
 - 📝 Projects & Case Studies – Case competitions and applied research initiatives.
 
  📫 Contact
+- Personal Website: https://karcen.github.io/zhengjiacheng.github.io/
 - Email: karcen_zheng@mail.sdu.edu.cn  
 - GitHub: https://github.com/Karcen 
 - Zhihu: https://www.zhihu.com/people/karcenzheng
